@@ -1,0 +1,25 @@
+{
+  "name": "use-count-down",
+  "version": "1.0.0",
+  "description": "tiny react hook for implementing a count down with different timeout type",
+  "main": "useCountDown.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khakestani/use-count-down.git"
+  },
+  "keywords": [
+    "React",
+    "CountDown",
+    "Timer",
+    "Hook"
+  ],
+  "author": "khakestani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/khakestani/use-count-down/issues"
+  },
+  "homepage": "https://github.com/khakestani/use-count-down#readme"
+}
